@@ -1,1 +1,3 @@
-gitfloe-example
+# Gitflow
+
+version: 1.0.0
